@@ -30,13 +30,13 @@ section {
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 5rem;
-	margin-top: 2rem; /* Add margin between sections */
 }
 section article {
 	border: 1px solid black;
 	box-shadow: 0 2px 14px grey;
 	padding: 2.5%;
-	width: 25%
+	flex: 1; /* Distribute blocks equally */
+	margin-right: 1%; /* Add some space between blocks */
 }
 article img {
 	display: block;
