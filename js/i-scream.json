@@ -48,6 +48,18 @@
       ],
       "image":"ice-cream-xtra1.svg"
       
+    },
+    {
+      "name":"Creamy Vanilla",
+      "calories":440,
+      "type":"Butter milk",
+      "ingredients":[
+        "vanilla",
+        "butter milk",
+        "chocolate chunks"
+      ],
+      "image":"ice-cream-xtra2.svg"
+      
     }
   ]
 }
