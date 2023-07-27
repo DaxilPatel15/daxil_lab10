@@ -35,7 +35,8 @@ section article {
 	border: 1px solid black;
 	box-shadow: 0 2px 14px grey;
 	padding: 2.5%;
-	width: 25%;
+	flex: 1; /* Distribute blocks equally */
+	margin-right: 1%; /* Add some space between blocks */
 }
 article img {
 	display: block;
@@ -53,9 +54,4 @@ section ul {
 h2 {
   font-size: 2.5rem;
   margin-bottom: 10px;
-}
-
-/* Add margin between sections */
-section + section {
-  margin-top: 2rem;
 }
