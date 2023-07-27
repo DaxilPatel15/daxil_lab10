@@ -36,6 +36,18 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name":"kiwi",
+      "calories":340,
+      "type":"creamy",
+      "ingredients":[
+        "kiwi",
+        "almond milk",
+        "reeses mini chocolate"
+      ],
+      "image":"ice-cream-xtra1.svg"
+      
     }
   ]
 }
